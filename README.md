@@ -17,6 +17,9 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 
 ### Epic - Sveltekit & hygraph
 
+<img width="600" alt="Scherm­afbeelding 2023-10-21 om 01 35 13" src="https://github.com/Nazneen05x/choices-choices-the-tech-stack-visual-thinking/assets/112861261/7476e1aa-8a37-485e-acb0-fa5cba5c7dcf">
+
+
 ## Beschrijving
 
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
