@@ -6,7 +6,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
-  * [Epic](#Epic)
+  * [Epic - Sveltekit & hygraph](#Epic - Sveltekit & hygraph)
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
@@ -15,7 +15,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
   * [Licentie](#licentie)
 
 
-## Epic
+## Epic - Sveltekit & hygraph
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
