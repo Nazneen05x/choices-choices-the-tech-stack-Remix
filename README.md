@@ -6,8 +6,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
-
-  * [Beschrijving](##beschrijving)
+  * [Epic](#Epic)
+  * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
