@@ -35,6 +35,8 @@ export default function _Index() {
         werkvormen opgevraagd worden bij Charley Muhren, docent en onderzoeker
         bij CMD Amsterdam: c.j.muhren@hva.nl.
       </p>
+
+      <p>test</p>
     </section>
   );
 }
