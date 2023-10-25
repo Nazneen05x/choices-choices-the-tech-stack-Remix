@@ -1,4 +1,4 @@
-import type { MetaFunction } from "@remix-run/node";
+import type { LinksFunction, MetaFunction } from "@remix-run/node";
 import { cssBundleHref } from "@remix-run/css-bundle";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
