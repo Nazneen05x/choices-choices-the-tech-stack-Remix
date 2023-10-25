@@ -2,9 +2,15 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header>
-      <h1>Dit is de header van mijn Remix-app</h1>
-      {/* Plaats hier eventuele navigatie- of logo-elementen */}
+    <header
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        marginTop: "1%",
+      }}
+    >
+      <img src="vtHBO-v1.0-Logo_1.svg" alt="vthbologo" />
     </header>
   );
 };
