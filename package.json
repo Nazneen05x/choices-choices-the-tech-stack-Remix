@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@remix-run/dev": "^2.1.0",
-    "@remix-run/node": "^2.1.0",
-    "package.json": "^2.0.1"
-  }
-}
