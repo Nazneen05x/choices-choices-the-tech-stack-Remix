@@ -14,7 +14,7 @@ export const meta: MetaFunction = () => {
   ];
 };
 
-export default function _Index() {
+export function _Index() {
   return (
     <section>
       <Header />
