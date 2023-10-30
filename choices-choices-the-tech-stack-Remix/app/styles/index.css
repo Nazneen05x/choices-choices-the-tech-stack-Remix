@@ -1,0 +1,36 @@
+:root {
+  --vtYellow: #feb51e;
+}
+
+/* Iframe styling */
+
+.iframe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+
+.video-arrows {
+  margin: 1em;
+}
+
+/* Arrow buttons */
+
+.arrows {
+  width: 72px;
+  height: 66px;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  transform: rotate(90deg);
+  border: none;
+  background: var(--vtYellow);
+}
+
+.right-arrow {
+  transform: rotate(270deg);
+}
+
+.left-arrow {
+  transform: rotate(90deg);
+}
