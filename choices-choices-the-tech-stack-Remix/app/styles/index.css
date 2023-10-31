@@ -34,3 +34,18 @@
 .left-arrow {
   transform: rotate(90deg);
 }
+
+.beschrijving {
+  max-width: 500px;
+  max-height: 409px;
+  margin-left: 1em;
+}
+
+h1 {
+  margin-bottom: 1em;
+  font-size: x-large;
+}
+
+p {
+  line-height: 1.5em;
+}

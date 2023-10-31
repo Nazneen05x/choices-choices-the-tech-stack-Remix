@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@cosmicjs/sdk": "^1.0.10",
+    "cosmicjs": "^4.3.7"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.8"
+  }
+}
