@@ -52,6 +52,8 @@ Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een 
 
 Je kunt op dit moment alleen de kennisclip: onderzoeken en begrijpen bekijken op de kennisclips pagina.
 
+> Bekijk hier de kennisclips pagina: https://choices-choices-the-tech-stack-remix.vercel.app/
+
 ## Bronnen 🌐
 
 <ul>
