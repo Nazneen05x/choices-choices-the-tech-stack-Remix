@@ -52,6 +52,12 @@ Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een 
 
 ## Bronnen 🌐
 
+<ul>
+<li>https://www.google.com</li>
+<li>https://remix.run</li>
+<li>https://www.cosmicjs.com</li>
+</ul>
+
 ## Licentie 🔒
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
