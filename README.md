@@ -43,8 +43,10 @@ Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een 
 3. Code (map) open in VSCode of een andere editor.
 4. Terminal open.
 5. `Npm install` (typen in je terminal, daarna enter druken).
-6. `Npm run dev` (typen in je terminal, daarna enter druken).
-7. 
+6. `cd choices-choices-the-tech-stack-Remix` (typen in je terminal, daarna enter druken).
+7. `Npm run dev` (typen in je terminal, daarna enter druken).
+8. localhost:300 (live link om artikel (blog) pagina te zien in je browser)
+   
 
 ## Gebruik  👥
 
