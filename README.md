@@ -50,6 +50,8 @@ Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een 
 
 ## Gebruik  👥
 
+Je kunt op dit moment alleen de kennisclip: onderzoeken en begrijpen bekijken op de kennisclips pagina.
+
 ## Bronnen 🌐
 
 <ul>
