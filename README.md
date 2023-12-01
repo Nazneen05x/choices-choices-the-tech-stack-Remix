@@ -23,7 +23,19 @@
 Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een andere tech stack. Ik heb de kennisclips pagina gebouwd in de framework Remix.run en in de headless cms Cosmic.js. 
 
 ## Kenmerken 🖇️
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+</ul>
+
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>Svelte</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+
 
 ## Installatie 🛠️
 
