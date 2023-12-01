@@ -30,14 +30,20 @@ Het doel van deze sprint is om de website van de opdrachtgever te bouwen in een 
 
 <strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
 <ul>
-<li>Svelte</li>
-<li>HTML</li>
+<li>TypeScript</li>
 <li>CSS</li>
 <li>JavaScript</li>
 </ul>
 
 
 ## Installatie 🛠️
+
+1. Fork deze leertaak.
+2. Code klonen naar Github Desktop.
+3. Code (map) open in VSCode of een andere editor.
+4. Terminal open.
+5. Npm install (typen in je terminal, daarna enter druken).
+6. Npm run dev (typen in je terminal, daarna enter druken).
 
 ## Gebruik  👥
 
